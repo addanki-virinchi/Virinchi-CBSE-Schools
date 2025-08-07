@@ -4,4 +4,4 @@ undetected-chromedriver>=3.4.0
 setuptools
 google-auth
 google-auth-oauthlib
-
+gspread
